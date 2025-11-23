@@ -1,0 +1,4 @@
+acessara terminal e local dos arquivos.
+
+pelo terminal digitar jupyter notebook, para acessar o jupyter.
+
